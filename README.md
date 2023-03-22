@@ -1,4 +1,2 @@
 # test
-A repository for testing. 
-
-Test credential
+A repository for testing
